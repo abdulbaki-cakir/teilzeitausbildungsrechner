@@ -20,6 +20,14 @@ Das Projekt wird als **Gruppenarbeit** im Rahmen des Labor-Kurses Softwareentwic
 
 ---
 
+### Aktueller Teilzeitausbildungsrechner der IHK
+
+| Vorschau |
+|----------|
+| ![Alter Teilzeitausbildungsrechner](assets/rechner_alt.png) |
+
+---
+
 ## Technologiestack
 
 - **HTML / CSS / JS**
