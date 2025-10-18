@@ -10,6 +10,16 @@ Das Projekt wird als **Gruppenarbeit** im Rahmen des Labor-Kurses Softwareentwic
 
 ---
 
+### Aktueller Teilzeitausbildungsrechner der IHK
+
+| Vorschau |
+|----------|
+| ![Alter Teilzeitausbildungsrechner](assets/rechner_alt.png) |
+
+---
+
+---
+
 ## Ziele
 
 - **Frontend verbessern:** übersichtliches, modernes Design, klare Eingabefelder  
@@ -17,14 +27,6 @@ Das Projekt wird als **Gruppenarbeit** im Rahmen des Labor-Kurses Softwareentwic
 - **Barrierefreie Nutzung:** Übersetzung in mehrere Sprachen, optionale leichte Sprache  
 - **Transparenz:** Bereich, der erklärt, wie die Berechnungen zustande kommen  
 - **Ergebnisdarstellung:** Möglichkeit, das Ergebnis zu exportieren oder zu drucken, später auch als Balkendiagramm  
-
----
-
-### Aktueller Teilzeitausbildungsrechner der IHK
-
-| Vorschau |
-|----------|
-| ![Alter Teilzeitausbildungsrechner](assets/rechner_alt.png) |
 
 ---
 
