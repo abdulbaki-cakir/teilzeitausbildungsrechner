@@ -1,4 +1,4 @@
-# IHK-Teilzeitausbildungsrechner
+# Teilzeitausbildungsrechner
 
 ## Projektübersicht
 
