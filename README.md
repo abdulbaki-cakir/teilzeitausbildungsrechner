@@ -1,16 +1,21 @@
-# Teilzeitausbildungsrechner
+# 🧮 Teilzeitausbildungsrechner
 
-## Projektübersicht
+📚 **Laborprojekt** im Kurs *Softwareentwicklung*  
+🎓 Studiengang: Software Engineering  
+
+---
+
+## 📘 Projektübersicht
 
 Dieses Projekt ist eine Überarbeitung des bestehenden **IHK-Teilzeitausbildungsrechners**.  
-Ziel ist es, die Benutzerfreundlichkeit, Barrierefreiheit und Verständlichkeit zu verbessern, insbesondere für Nutzer:innen, die den bisherigen Rechner als kompliziert und unübersichtlich empfinden.
+Ziel ist es, die **Benutzerfreundlichkeit**, **Barrierefreiheit** und **Verständlichkeit** zu verbessern – insbesondere für Nutzer:innen, die den bisherigen Rechner als kompliziert und unübersichtlich empfinden.
 
 Das Projekt wird als **Gruppenarbeit** im Rahmen des Labor-Kurses Softwareentwicklung durchgeführt.  
 **Hauptentwickler:** Abdulbaki Cakir
 
 ---
 
-### Aktueller Teilzeitausbildungsrechner der IHK
+### 🧩 Aktueller Teilzeitausbildungsrechner der IHK
 
 | Vorschau |
 |----------|
@@ -18,9 +23,7 @@ Das Projekt wird als **Gruppenarbeit** im Rahmen des Labor-Kurses Softwareentwic
 
 ---
 
----
-
-## Ziele
+## 🎯 Ziele
 
 - **Frontend verbessern:** übersichtliches, modernes Design, klare Eingabefelder  
 - **Formulierungen vereinfachen:** verständliche Texte für alle Nutzer:innen  
@@ -30,15 +33,15 @@ Das Projekt wird als **Gruppenarbeit** im Rahmen des Labor-Kurses Softwareentwic
 
 ---
 
-## Technologiestack
+## ⚙️ Technologiestack
 
-- **HTML / CSS / JS**
-- JSON für Mehrsprachigkeit (`de.json`, `ua.json` etc.)
-- Keine externen Bibliotheken zum aktuellen Stand
+- **HTML / CSS / JavaScript**  
+- **JSON** für Mehrsprachigkeit (`de.json`, `ua.json` etc.)  
+- Keine externen Bibliotheken zum aktuellen Stand  
 
 ---
 
-## Aktueller Stand
+## 🚧 Aktueller Stand
 
 - **Design:** Header, Footer und Grundgerüst fertig umgesetzt  
 - **Struktur:** sauber strukturierter Code (`index.html`, `_header.html`, `_footer.html`, `_faq.html`)  
@@ -48,30 +51,33 @@ Das Projekt wird als **Gruppenarbeit** im Rahmen des Labor-Kurses Softwareentwic
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-### Startseite
+### 🏠 Startseite
 
 | Desktop | Tablet | Smartphone |
-|---------|--------|------------|
+|----------|---------|------------|
 | ![Desktop](assets/start_desktop.png) | ![Tablet](assets/start_tablet.png) | ![Smartphone](assets/start_smartphone.png) |
-
-### Rechner
-
-| Rechner Desktop | Rechner Tablet | Rechner Smartphone |
-|-----------------|----------------|------------------|
-| ![Rechner Desktop](assets/rechner_desktop.png) | ![Rechner Tablet](assets/rechner_tablet.png) | ![Rechner Smartphone](assets/rechner_smartphone.png) |
-
-### Demo GIF
-
-| Interaktion |
-|------------------------|
-| ![Demo GIF](assets/demo.gif) |
-
 
 ---
 
-## TODO / In Arbeit
+### 🧮 Rechner
+
+| Rechner Desktop | Rechner Tablet | Rechner Smartphone |
+|-----------------|----------------|--------------------|
+| ![Rechner Desktop](assets/rechner_desktop.png) | ![Rechner Tablet](assets/rechner_tablet.png) | ![Rechner Smartphone](assets/rechner_smartphone.png) |
+
+---
+
+### 🎬 Demo GIF
+
+| Interaktion |
+|--------------|
+| ![Demo GIF](assets/demo.gif) |
+
+---
+
+## 🧱 TODO / In Arbeit
 
 - Übersetzungen für die gesamte Seite  
 - Integration von leichter Sprache  
@@ -88,14 +94,14 @@ Das Projekt wird als **Gruppenarbeit** im Rahmen des Labor-Kurses Softwareentwic
 
 ---
 
-## Autor:innen
+## 👨‍💻 Autor:innen
 
-- Gruppenarbeit im Labor-Kurs Softwareentwicklung  
-- Hauptentwickler: Abdulbaki Cakir
+- Gruppenarbeit im Labor-Kurs *Softwareentwicklung*  
+- **Hauptentwickler:** Abdulbaki Cakir  
 
 ---
 
-## Lizenz
+## 📜 Lizenz
 
-- **Bootstrap Icons** (z. B. Buch-Symbol): MIT-Lizenz – [https://icons.getbootstrap.com/](https://icons.getbootstrap.com/)  
-- **Flaggen**: von FlagCDN, Public Domain – [https://flagcdn.com/](https://flagcdn.com/)  
+- **Bootstrap Icons** (z. B. Buch-Symbol): MIT-Lizenz – [https://icons.getbootstrap.com/](https://icons.getbootstrap.com/)  
+- **Flaggen:** von FlagCDN, Public Domain – [https://flagcdn.com/](https://flagcdn.com/)  
