@@ -36,8 +36,10 @@ Das Projekt wird als **Gruppenarbeit** im Rahmen des Labor-Kurses Softwareentwic
 ## ⚙️ Technologiestack
 
 - **HTML / CSS / JavaScript**  
-- **JSON** für Mehrsprachigkeit (`de.json`, `ua.json` etc.)  
-- Keine externen Bibliotheken zum aktuellen Stand  
+- **JSON** für Mehrsprachigkeit (`de.json`, `ua.json` etc.)
+- CI/CD Pipelines für die Vermeidung von Fehlern
+- **Docker** für das "Verpacken" der Anwendung
+- **Build-Tool**: Vite 
 
 ---
 
