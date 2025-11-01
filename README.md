@@ -1,9 +1,5 @@
 # 🧮 Teilzeitausbildungsrechner
 
-📚 **Laborprojekt** im Kurs *Softwareentwicklung*  
-🎓 Studiengang: Software Engineering  
-
----
 
 ## 📘 Projektübersicht
 
